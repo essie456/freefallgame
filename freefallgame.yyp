@@ -197,6 +197,14 @@
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "faa02195-a919-4dfc-8f4e-e80a524cc66b",
+            "Value": {
+                "id": "6fba9ed0-f309-4ef6-a58a-3ebb3137c44e",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [

@@ -6,7 +6,8 @@
     "children": [
         "f5c02bf3-00fe-4131-b03f-81baa379b43a",
         "c835404b-dcc1-4b2b-be9c-f6727bb1d587",
-        "c5231c0f-eed8-47c6-89ca-672993fc9fd8"
+        "c5231c0f-eed8-47c6-89ca-672993fc9fd8",
+        "faa02195-a919-4dfc-8f4e-e80a524cc66b"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",

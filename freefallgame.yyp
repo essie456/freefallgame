@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "5323c572-0f68-4dcc-8177-7402d4a7d620",
+            "Value": {
+                "id": "036d84cc-ce30-43e0-a361-7e9a1f34ee76",
+                "resourcePath": "objects\\object1\\object1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57f2efb6-051e-4b88-bf9e-00053752a85f",
+            "Value": {
+                "id": "0cdbac10-58f2-46ab-91e0-22aae639140f",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8cf84ed5-75dd-4fea-82f9-423f81017789",
             "Value": {
                 "id": "d3bfac92-f823-484c-9bf2-ba9a0608b8fd",

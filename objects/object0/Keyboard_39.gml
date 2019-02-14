@@ -4,8 +4,9 @@
 /// @DnDArgument : "x" "run_speed"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "not" "1"
 var l2C3900AF_0 = instance_place(x + run_speed, y + 0, noone);
-if ((l2C3900AF_0 > 0))
+if (!(l2C3900AF_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1

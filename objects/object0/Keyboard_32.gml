@@ -1,23 +1,19 @@
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
-/// @DnDHash : 527A14A4
-/// @DnDArgument : "x" "jump_speed"
+/// @DnDHash : 0F25FD18
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "jump_speed"
+/// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "object1"
 /// @DnDSaveInfo : "object" "5323c572-0f68-4dcc-8177-7402d4a7d620"
-var l527A14A4_0 = instance_place(x + jump_speed, y + jump_speed, object1);
-if ((l527A14A4_0 > 0))
+var l0F25FD18_0 = instance_place(x + 0, y + 2, object1);
+if ((l0F25FD18_0 > 0))
 {
-	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
-	/// @DnDHash : 6F3071A7
-	/// @DnDParent : 527A14A4
-	/// @DnDArgument : "x" "jump_speed"
-	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "jump_speed"
-	/// @DnDArgument : "y_relative" "1"
-	x += jump_speed;
-	y += jump_speed;
+	/// @DnDHash : 49473E9F
+	/// @DnDParent : 0F25FD18
+	/// @DnDArgument : "speed" "jump_speed"
+	/// @DnDArgument : "type" "2"
+	vspeed = jump_speed;
 }
